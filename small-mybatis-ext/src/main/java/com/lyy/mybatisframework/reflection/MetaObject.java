@@ -3,7 +3,6 @@ package com.lyy.mybatisframework.reflection;
 import com.lyy.mybatisframework.reflection.factory.ObjectFactory;
 import com.lyy.mybatisframework.reflection.property.PropertyTokenizer;
 import com.lyy.mybatisframework.reflection.wrapper.*;
-import com.zyh.mybatisframework.reflection.wrapper.*;
 
 import java.util.Collection;
 import java.util.Map;

@@ -11,7 +11,6 @@ import com.lyy.mybatisframework.reflection.MetaClass;
 import com.lyy.mybatisframework.scripting.LanguageDriver;
 import com.lyy.mybatisframework.session.Configuration;
 import com.lyy.mybatisframework.cache.Cache;
-import com.zyh.mybatisframework.mapping.*;
 import com.lyy.mybatisframework.type.TypeHandler;
 
 import java.util.ArrayList;
