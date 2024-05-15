@@ -26,11 +26,9 @@ public class Invocation {
     public Object getTarget() {
         return target;
     }
-
     public Method getMethod() {
         return method;
     }
-
     public Object[] getArgs() {
         return args;
     }
