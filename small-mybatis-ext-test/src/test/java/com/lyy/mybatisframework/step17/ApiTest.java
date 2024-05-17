@@ -17,9 +17,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 public class ApiTest {
-
     private Logger logger = LoggerFactory.getLogger(ApiTest.class);
-
     @Test
     public void test_SqlSessionFactory() throws IOException {
         // 1. 从SqlSessionFactory中获取SqlSession
